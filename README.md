@@ -20,7 +20,7 @@ Desenvolvedor Fullstack.</h1>
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-
+<br>
 <div style="margin: 1rem;  justify-content: center;">
   <a href="https://github.com/DevBrunoMoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBrunoMoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
