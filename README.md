@@ -1,4 +1,4 @@
-<div style=";margin: 1rem; text-align:center;"><br>
+<div style="display: flex; margin: 1rem; text-align:center; justify-content: center;"><br>
 
 <h1>👋 Olá, Eu sou Bruno Moura, seja bem vindo a minha exposição! 💻<br>
 Desenvolvedor Fullstack.</h1>
