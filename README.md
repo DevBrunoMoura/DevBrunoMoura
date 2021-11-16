@@ -36,7 +36,7 @@ Desenvolvedor Fullstack.</h1>
 <hr>
 <div style="display: flex; margin: 1rem;  justify-content: center;>
 
-<a href="https://www.linkedin.com/in/devbrunomoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/devbrunodemoura/" target = "_blank_"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://www.facebook.com/Dev.BrunoJesus11" target="_blank_"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <a href="https://instagram.com/DevBrunoMoura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:dev.brunojesus11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
