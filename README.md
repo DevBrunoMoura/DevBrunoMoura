@@ -13,7 +13,7 @@ Desenvolvedor Fullstack.</h1>
 </div>
 <hr>
 <div style="display: flex; margin: 1rem; justify-content: center;"><br>
-  <h2>Linguagens que já trabalho ou estudo:</h2>
+  <h2>Linguagens que já trabalho e estudo:</h2>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
