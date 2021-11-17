@@ -6,9 +6,9 @@ Desenvolvedor Fullstack.</h1>
 <h2>❤️ Apaixonado por tecnologia.</h2>
 
 <p>
-- 🔭 I’m currently Open to work.
-- 🌱 I’m currently learning: React JS, Node JS, Solid
-- 💬 Ask me about: Future, planning
+- 🔭 I’m currently Open to work.<br>
+- 🌱 I’m currently learning: React JS, Node JS, Solid <br>
+- 💬 Ask me about: Future, planning <br>
 </p>
 </div>
 <hr>
