@@ -1,14 +1,15 @@
 <div style="display: flex; margin: 1rem; text-align:center; justify-content: center;"><br>
 
-<h1>👋 Olá, Eu sou Bruno Moura, seja bem vindo a minha exposição! 💻<br>
-Desenvolvedor Fullstack.</h1>
+<h1>👋 <strong>Hello! Welcome to my profile <3 </strong></h1>
+<h2>Product Manager</h2>
+<h2>❤️ passionate about technology.</h2>
 
-<h2>❤️ Apaixonado por tecnologia.</h2>
 
 <p>
 - 🔭 I’m currently Open to work.<br>
 - 🌱 I’m currently learning: React JS, Node JS, Solid <br>
 - 💬 Ask me about: Future, planning <br>
+- 🖥 Studying Information Technology Management
 </p>
 </div>
 <hr>
